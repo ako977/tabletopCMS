@@ -1,0 +1,27 @@
+{
+  "name": "tabletopCMS",
+  "version": "0.1",
+  "description": "AngularJS driven basic content management of your website's text content. Content reflected is edited in Google Spreadsheet (with tabletopjs library).",
+  "main": "index.html",  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ako977/tabletopCMS"
+  },
+  "keywords": [
+    "cms",
+    "html",
+    "js",
+    "css",
+    "simple",
+    ""
+  ],
+  "author": "Alexander OG <alexk45@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ako977/tabletopCMS/issues"
+  },
+  "dependencies": {    
+    "angular.js": "git://github.com/angular/angularjs.org",
+    "tabletop.js": "git://github.com/jsoma/tabletop"
+  }
+}
