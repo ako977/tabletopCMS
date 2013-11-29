@@ -2,7 +2,7 @@
   "name": "tabletopCMS",
   "version": "0.1",
   "description": "AngularJS driven basic content management of your website's text content. Content reflected is edited in Google Spreadsheet (with tabletopjs library).",
-  "main": "index.html",  
+  "main": "/tests/index.html",
   "repository": {
     "type": "git",
     "url": "https://github.com/ako977/tabletopCMS"
@@ -12,10 +12,9 @@
     "html",
     "js",
     "css",
-    "simple",
-    ""
+    "simple"
   ],
-  "author": "Alexander OG <alexk45@hotmail.com>",
+  "author": "Alexander OG <alex.oseigyau@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ako977/tabletopCMS/issues"
